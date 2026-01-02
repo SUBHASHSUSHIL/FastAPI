@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Product 1",
+    "category": "Sports",
+    "brand": "Vertex",
+    "price": 45445.27,
+    "stock": 334,
+    "rating": 4.0,
+    "isAvailable": true
+  },
+  {
+    "id": 2,
+    "name": "Product 2",
+    "category": "Sports",
+    "brand": "Echo",
+    "price": 38784.1,
+    "stock": 232,
+    "rating": 3.2,
+    "isAvailable": true
+  },
+  {
+    "id": 3,
+    "name": "Product 3",
+    "category": "Electronics",
+    "brand": "Nova",
+    "price": 40864.38,
+    "stock": 437,
+    "rating": 2.2,
+    "isAvailable": false
+  },
+  {
+    "id": 4,
+    "name": "Product 4",
+    "category": "Beauty",
+    "brand": "Vertex",
+    "price": 13813.99,
+    "stock": 460,
+    "rating": 3.5,
+    "isAvailable": true
+  },
+  {
+    "id": 5,
+    "name": "Product 5",
+    "category": "Books",
+    "brand": "Prime",
+    "price": 21210.12,
+    "stock": 367,
+    "rating": 4.3,
+    "isAvailable": true
+  },
+  {
+    "id": 6,
+    "name": "Product 6",
+    "category": "Clothing",
+    "brand": "Nova",
+    "price": 7513.82,
+    "stock": 452,
+    "rating": 4.0,
+    "isAvailable": false
+  },
+  {
+    "id": 7,
+    "name": "Product 7",
+    "category": "Electronics",
+    "brand": "Nova",
+    "price": 27710.37,
+    "stock": 234,
+    "rating": 4.7,
+    "isAvailable": false
+  },
+  {
+    "id": 8,
+    "name": "Product 8",
+    "category": "Home",
+    "brand": "Prime",
+    "price": 28359.13,
+    "stock": 225,
+    "rating": 3.4,
+    "isAvailable": false
+  },
+  {
+    "id": 9,
+    "name": "Product 9",
+    "category": "Electronics",
+    "brand": "Vertex",
+    "price": 31027.52,
+    "stock": 218,
+    "rating": 2.7,
+    "isAvailable": false
+  },
+  {
+    "id": 10,
+    "name": "Product 10",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 44592.04,
+    "stock": 47,
+    "rating": 1.7,
+    "isAvailable": false
+  },
+  {
+    "id": 11,
+    "name": "Product 11",
+    "category": "Electronics",
+    "brand": "Vertex",
+    "price": 8026.06,
+    "stock": 23,
+    "rating": 2.8,
+    "isAvailable": false
+  },
+  {
+    "id": 12,
+    "name": "Product 12",
+    "category": "Home",
+    "brand": "Echo",
+    "price": 15743.58,
+    "stock": 470,
+    "rating": 3.6,
+    "isAvailable": false
+  },
+  {
+    "id": 13,
+    "name": "Product 13",
+    "category": "Electronics",
+    "brand": "Nova",
+    "price": 9530.38,
+    "stock": 417,
+    "rating": 1.0,
+    "isAvailable": false
+  },
+  {
+    "id": 14,
+    "name": "Product 14",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 33610.97,
+    "stock": 484,
+    "rating": 3.1,
+    "isAvailable": false
+  },
+  {
+    "id": 15,
+    "name": "Product 15",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 26636.67,
+    "stock": 312,
+    "rating": 3.3,
+    "isAvailable": true
+  },
+  {
+    "id": 16,
+    "name": "Product 16",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 31689.18,
+    "stock": 172,
+    "rating": 3.6,
+    "isAvailable": true
+  },
+  {
+    "id": 17,
+    "name": "Product 17",
+    "category": "Books",
+    "brand": "Prime",
+    "price": 35547.01,
+    "stock": 411,
+    "rating": 3.5,
+    "isAvailable": true
+  },
+  {
+    "id": 18,
+    "name": "Product 18",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 10904.28,
+    "stock": 377,
+    "rating": 2.5,
+    "isAvailable": false
+  },
+  {
+    "id": 19,
+    "name": "Product 19",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 45479.32,
+    "stock": 216,
+    "rating": 1.8,
+    "isAvailable": true
+  },
+  {
+    "id": 20,
+    "name": "Product 20",
+    "category": "Home",
+    "brand": "Vertex",
+    "price": 15176.66,
+    "stock": 183,
+    "rating": 3.7,
+    "isAvailable": true
+  },
+  {
+    "id": 21,
+    "name": "Product 21",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 38165.17,
+    "stock": 387,
+    "rating": 4.7,
+    "isAvailable": false
+  },
+  {
+    "id": 22,
+    "name": "Product 22",
+    "category": "Beauty",
+    "brand": "Echo",
+    "price": 35017.38,
+    "stock": 315,
+    "rating": 3.8,
+    "isAvailable": false
+  },
+  {
+    "id": 23,
+    "name": "Product 23",
+    "category": "Sports",
+    "brand": "Prime",
+    "price": 27362.32,
+    "stock": 123,
+    "rating": 2.9,
+    "isAvailable": true
+  },
+  {
+    "id": 24,
+    "name": "Product 24",
+    "category": "Books",
+    "brand": "Zen",
+    "price": 43009.81,
+    "stock": 182,
+    "rating": 1.7,
+    "isAvailable": true
+  },
+  {
+    "id": 25,
+    "name": "Product 25",
+    "category": "Home",
+    "brand": "Alpha",
+    "price": 24399.91,
+    "stock": 125,
+    "rating": 3.1,
+    "isAvailable": false
+  },
+  {
+    "id": 26,
+    "name": "Product 26",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 34916.42,
+    "stock": 356,
+    "rating": 2.9,
+    "isAvailable": false
+  },
+  {
+    "id": 27,
+    "name": "Product 27",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 8221.22,
+    "stock": 442,
+    "rating": 2.1,
+    "isAvailable": false
+  },
+  {
+    "id": 28,
+    "name": "Product 28",
+    "category": "Electronics",
+    "brand": "Alpha",
+    "price": 49595.62,
+    "stock": 99,
+    "rating": 3.2,
+    "isAvailable": true
+  },
+  {
+    "id": 29,
+    "name": "Product 29",
+    "category": "Sports",
+    "brand": "Vertex",
+    "price": 2686.76,
+    "stock": 479,
+    "rating": 1.8,
+    "isAvailable": false
+  },
+  {
+    "id": 30,
+    "name": "Product 30",
+    "category": "Clothing",
+    "brand": "Vertex",
+    "price": 8765.55,
+    "stock": 397,
+    "rating": 2.8,
+    "isAvailable": true
+  },
+  {
+    "id": 31,
+    "name": "Product 31",
+    "category": "Electronics",
+    "brand": "Prime",
+    "price": 19424.06,
+    "stock": 395,
+    "rating": 2.8,
+    "isAvailable": true
+  },
+  {
+    "id": 32,
+    "name": "Product 32",
+    "category": "Beauty",
+    "brand": "Zen",
+    "price": 34067.19,
+    "stock": 386,
+    "rating": 2.6,
+    "isAvailable": false
+  },
+  {
+    "id": 33,
+    "name": "Product 33",
+    "category": "Clothing",
+    "brand": "Nova",
+    "price": 13757.11,
+    "stock": 420,
+    "rating": 2.4,
+    "isAvailable": false
+  },
+  {
+    "id": 34,
+    "name": "Product 34",
+    "category": "Books",
+    "brand": "Prime",
+    "price": 40635.31,
+    "stock": 44,
+    "rating": 1.6,
+    "isAvailable": false
+  },
+  {
+    "id": 35,
+    "name": "Product 35",
+    "category": "Sports",
+    "brand": "Vertex",
+    "price": 39347.1,
+    "stock": 38,
+    "rating": 4.9,
+    "isAvailable": false
+  },
+  {
+    "id": 36,
+    "name": "Product 36",
+    "category": "Electronics",
+    "brand": "Prime",
+    "price": 8698.31,
+    "stock": 415,
+    "rating": 1.2,
+    "isAvailable": true
+  },
+  {
+    "id": 37,
+    "name": "Product 37",
+    "category": "Electronics",
+    "brand": "Vertex",
+    "price": 33406.92,
+    "stock": 447,
+    "rating": 3.6,
+    "isAvailable": false
+  },
+  {
+    "id": 38,
+    "name": "Product 38",
+    "category": "Electronics",
+    "brand": "Echo",
+    "price": 17597.99,
+    "stock": 92,
+    "rating": 1.2,
+    "isAvailable": false
+  },
+  {
+    "id": 39,
+    "name": "Product 39",
+    "category": "Books",
+    "brand": "Zen",
+    "price": 36141.82,
+    "stock": 333,
+    "rating": 3.6,
+    "isAvailable": false
+  },
+  {
+    "id": 40,
+    "name": "Product 40",
+    "category": "Sports",
+    "brand": "Vertex",
+    "price": 12983.79,
+    "stock": 10,
+    "rating": 4.5,
+    "isAvailable": false
+  },
+  {
+    "id": 41,
+    "name": "Product 41",
+    "category": "Books",
+    "brand": "Echo",
+    "price": 16743.15,
+    "stock": 457,
+    "rating": 2.7,
+    "isAvailable": false
+  },
+  {
+    "id": 42,
+    "name": "Product 42",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 29480.21,
+    "stock": 169,
+    "rating": 3.5,
+    "isAvailable": true
+  },
+  {
+    "id": 43,
+    "name": "Product 43",
+    "category": "Home",
+    "brand": "Prime",
+    "price": 40212.51,
+    "stock": 416,
+    "rating": 5.0,
+    "isAvailable": true
+  },
+  {
+    "id": 44,
+    "name": "Product 44",
+    "category": "Books",
+    "brand": "Zen",
+    "price": 18807.4,
+    "stock": 200,
+    "rating": 3.9,
+    "isAvailable": true
+  },
+  {
+    "id": 45,
+    "name": "Product 45",
+    "category": "Home",
+    "brand": "Alpha",
+    "price": 32316.6,
+    "stock": 334,
+    "rating": 4.5,
+    "isAvailable": true
+  },
+  {
+    "id": 46,
+    "name": "Product 46",
+    "category": "Home",
+    "brand": "Alpha",
+    "price": 7600.77,
+    "stock": 106,
+    "rating": 4.0,
+    "isAvailable": false
+  },
+  {
+    "id": 47,
+    "name": "Product 47",
+    "category": "Electronics",
+    "brand": "Prime",
+    "price": 31324.89,
+    "stock": 182,
+    "rating": 4.7,
+    "isAvailable": false
+  },
+  {
+    "id": 48,
+    "name": "Product 48",
+    "category": "Clothing",
+    "brand": "Zen",
+    "price": 37988.6,
+    "stock": 197,
+    "rating": 2.7,
+    "isAvailable": false
+  },
+  {
+    "id": 49,
+    "name": "Product 49",
+    "category": "Books",
+    "brand": "Echo",
+    "price": 4666.6,
+    "stock": 481,
+    "rating": 2.5,
+    "isAvailable": true
+  },
+  {
+    "id": 50,
+    "name": "Product 50",
+    "category": "Electronics",
+    "brand": "Vertex",
+    "price": 34472.85,
+    "stock": 274,
+    "rating": 2.0,
+    "isAvailable": true
+  },
+  {
+    "id": 51,
+    "name": "Product 51",
+    "category": "Clothing",
+    "brand": "Alpha",
+    "price": 49374.48,
+    "stock": 253,
+    "rating": 1.8,
+    "isAvailable": false
+  },
+  {
+    "id": 52,
+    "name": "Product 52",
+    "category": "Books",
+    "brand": "Nova",
+    "price": 45940.41,
+    "stock": 64,
+    "rating": 3.7,
+    "isAvailable": false
+  },
+  {
+    "id": 53,
+    "name": "Product 53",
+    "category": "Books",
+    "brand": "Prime",
+    "price": 43329.08,
+    "stock": 261,
+    "rating": 4.2,
+    "isAvailable": true
+  },
+  {
+    "id": 54,
+    "name": "Product 54",
+    "category": "Electronics",
+    "brand": "Alpha",
+    "price": 14834.29,
+    "stock": 269,
+    "rating": 3.8,
+    "isAvailable": true
+  },
+  {
+    "id": 55,
+    "name": "Product 55",
+    "category": "Clothing",
+    "brand": "Echo",
+    "price": 33579.78,
+    "stock": 55,
+    "rating": 2.2,
+    "isAvailable": false
+  },
+  {
+    "id": 56,
+    "name": "Product 56",
+    "category": "Books",
+    "brand": "Nova",
+    "price": 34759.4,
+    "stock": 118,
+    "rating": 3.6,
+    "isAvailable": true
+  },
+  {
+    "id": 57,
+    "name": "Product 57",
+    "category": "Sports",
+    "brand": "Zen",
+    "price": 36418.82,
+    "stock": 212,
+    "rating": 4.0,
+    "isAvailable": false
+  },
+  {
+    "id": 58,
+    "name": "Product 58",
+    "category": "Beauty",
+    "brand": "Echo",
+    "price": 33709.08,
+    "stock": 149,
+    "rating": 2.0,
+    "isAvailable": true
+  },
+  {
+    "id": 59,
+    "name": "Product 59",
+    "category": "Books",
+    "brand": "Nova",
+    "price": 42366.25,
+    "stock": 330,
+    "rating": 4.3,
+    "isAvailable": true
+  },
+  {
+    "id": 60,
+    "name": "Product 60",
+    "category": "Books",
+    "brand": "Vertex",
+    "price": 11786.19,
+    "stock": 383,
+    "rating": 4.3,
+    "isAvailable": true
+  },
+  {
+    "id": 61,
+    "name": "Product 61",
+    "category": "Home",
+    "brand": "Nova",
+    "price": 40112.51,
+    "stock": 263,
+    "rating": 2.0,
+    "isAvailable": false
+  },
+  {
+    "id": 62,
+    "name": "Product 62",
+    "category": "Home",
+    "brand": "Zen",
+    "price": 45673.48,
+    "stock": 421,
+    "rating": 3.1,
+    "isAvailable": false
+  },
+  {
+    "id": 63,
+    "name": "Product 63",
+    "category": "Beauty",
+    "brand": "Echo",
+    "price": 38808.57,
+    "stock": 282,
+    "rating": 1.1,
+    "isAvailable": true
+  },
+  {
+    "id": 64,
+    "name": "Product 64",
+    "category": "Sports",
+    "brand": "Vertex",
+    "price": 34036.03,
+    "stock": 201,
+    "rating": 4.4,
+    "isAvailable": true
+  },
+  {
+    "id": 65,
+    "name": "Product 65",
+    "category": "Clothing",
+    "brand": "Prime",
+    "price": 5045.44,
+    "stock": 154,
+    "rating": 2.1,
+    "isAvailable": true
+  },
+  {
+    "id": 66,
+    "name": "Product 66",
+    "category": "Home",
+    "brand": "Prime",
+    "price": 18710.96,
+    "stock": 128,
+    "rating": 2.3,
+    "isAvailable": false
+  },
+  {
+    "id": 67,
+    "name": "Product 67",
+    "category": "Home",
+    "brand": "Echo",
+    "price": 38271.7,
+    "stock": 254,
+    "rating": 4.6,
+    "isAvailable": true
+  },
+  {
+    "id": 68,
+    "name": "Product 68",
+    "category": "Home",
+    "brand": "Alpha",
+    "price": 43186.08,
+    "stock": 19,
+    "rating": 1.5,
+    "isAvailable": false
+  },
+  {
+    "id": 69,
+    "name": "Product 69",
+    "category": "Clothing",
+    "brand": "Zen",
+    "price": 31744.44,
+    "stock": 119,
+    "rating": 2.7,
+    "isAvailable": true
+  },
+  {
+    "id": 70,
+    "name": "Product 70",
+    "category": "Electronics",
+    "brand": "Echo",
+    "price": 35557.41,
+    "stock": 181,
+    "rating": 1.6,
+    "isAvailable": true
+  },
+  {
+    "id": 71,
+    "name": "Product 71",
+    "category": "Home",
+    "brand": "Vertex",
+    "price": 43565.79,
+    "stock": 178,
+    "rating": 1.4,
+    "isAvailable": true
+  },
+  {
+    "id": 72,
+    "name": "Product 72",
+    "category": "Electronics",
+    "brand": "Nova",
+    "price": 45109.48,
+    "stock": 475,
+    "rating": 1.6,
+    "isAvailable": true
+  },
+  {
+    "id": 73,
+    "name": "Product 73",
+    "category": "Sports",
+    "brand": "Vertex",
+    "price": 14019.44,
+    "stock": 113,
+    "rating": 4.5,
+    "isAvailable": false
+  },
+  {
+    "id": 74,
+    "name": "Product 74",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 35500.13,
+    "stock": 68,
+    "rating": 3.9,
+    "isAvailable": false
+  },
+  {
+    "id": 75,
+    "name": "Product 75",
+    "category": "Beauty",
+    "brand": "Nova",
+    "price": 17692.87,
+    "stock": 177,
+    "rating": 2.0,
+    "isAvailable": true
+  },
+  {
+    "id": 76,
+    "name": "Product 76",
+    "category": "Books",
+    "brand": "Prime",
+    "price": 43291.42,
+    "stock": 457,
+    "rating": 2.8,
+    "isAvailable": true
+  },
+  {
+    "id": 77,
+    "name": "Product 77",
+    "category": "Home",
+    "brand": "Zen",
+    "price": 48641.15,
+    "stock": 136,
+    "rating": 4.7,
+    "isAvailable": true
+  },
+  {
+    "id": 78,
+    "name": "Product 78",
+    "category": "Clothing",
+    "brand": "Prime",
+    "price": 8883.52,
+    "stock": 238,
+    "rating": 4.8,
+    "isAvailable": true
+  },
+  {
+    "id": 79,
+    "name": "Product 79",
+    "category": "Beauty",
+    "brand": "Vertex",
+    "price": 32415.5,
+    "stock": 18,
+    "rating": 3.9,
+    "isAvailable": true
+  },
+  {
+    "id": 80,
+    "name": "Product 80",
+    "category": "Clothing",
+    "brand": "Zen",
+    "price": 44832.32,
+    "stock": 190,
+    "rating": 2.5,
+    "isAvailable": false
+  },
+  {
+    "id": 81,
+    "name": "Product 81",
+    "category": "Clothing",
+    "brand": "Zen",
+    "price": 35291.99,
+    "stock": 166,
+    "rating": 1.4,
+    "isAvailable": true
+  },
+  {
+    "id": 82,
+    "name": "Product 82",
+    "category": "Clothing",
+    "brand": "Prime",
+    "price": 39112.34,
+    "stock": 458,
+    "rating": 3.7,
+    "isAvailable": false
+  },
+  {
+    "id": 83,
+    "name": "Product 83",
+    "category": "Books",
+    "brand": "Echo",
+    "price": 18193.42,
+    "stock": 104,
+    "rating": 4.4,
+    "isAvailable": true
+  },
+  {
+    "id": 84,
+    "name": "Product 84",
+    "category": "Clothing",
+    "brand": "Vertex",
+    "price": 16418.61,
+    "stock": 405,
+    "rating": 2.5,
+    "isAvailable": false
+  },
+  {
+    "id": 85,
+    "name": "Product 85",
+    "category": "Clothing",
+    "brand": "Zen",
+    "price": 37371.47,
+    "stock": 132,
+    "rating": 2.0,
+    "isAvailable": false
+  },
+  {
+    "id": 86,
+    "name": "Product 86",
+    "category": "Books",
+    "brand": "Alpha",
+    "price": 16998.63,
+    "stock": 195,
+    "rating": 2.2,
+    "isAvailable": false
+  },
+  {
+    "id": 87,
+    "name": "Product 87",
+    "category": "Sports",
+    "brand": "Echo",
+    "price": 6739.66,
+    "stock": 427,
+    "rating": 3.7,
+    "isAvailable": true
+  },
+  {
+    "id": 88,
+    "name": "Product 88",
+    "category": "Beauty",
+    "brand": "Zen",
+    "price": 13162.69,
+    "stock": 24,
+    "rating": 1.8,
+    "isAvailable": true
+  },
+  {
+    "id": 89,
+    "name": "Product 89",
+    "category": "Electronics",
+    "brand": "Vertex",
+    "price": 6046.49,
+    "stock": 465,
+    "rating": 2.3,
+    "isAvailable": true
+  },
+  {
+    "id": 90,
+    "name": "Product 90",
+    "category": "Sports",
+    "brand": "Prime",
+    "price": 7724.68,
+    "stock": 269,
+    "rating": 2.3,
+    "isAvailable": false
+  },
+  {
+    "id": 91,
+    "name": "Product 91",
+    "category": "Sports",
+    "brand": "Prime",
+    "price": 16547.66,
+    "stock": 490,
+    "rating": 2.7,
+    "isAvailable": true
+  },
+  {
+    "id": 92,
+    "name": "Product 92",
+    "category": "Sports",
+    "brand": "Vertex",
+    "price": 16528.61,
+    "stock": 38,
+    "rating": 4.4,
+    "isAvailable": true
+  },
+  {
+    "id": 93,
+    "name": "Product 93",
+    "category": "Electronics",
+    "brand": "Nova",
+    "price": 34384.69,
+    "stock": 12,
+    "rating": 4.7,
+    "isAvailable": false
+  },
+  {
+    "id": 94,
+    "name": "Product 94",
+    "category": "Electronics",
+    "brand": "Echo",
+    "price": 47635.26,
+    "stock": 199,
+    "rating": 4.2,
+    "isAvailable": true
+  },
+  {
+    "id": 95,
+    "name": "Product 95",
+    "category": "Sports",
+    "brand": "Nova",
+    "price": 37529.7,
+    "stock": 445,
+    "rating": 1.5,
+    "isAvailable": true
+  },
+  {
+    "id": 96,
+    "name": "Product 96",
+    "category": "Electronics",
+    "brand": "Prime",
+    "price": 28281.76,
+    "stock": 278,
+    "rating": 4.3,
+    "isAvailable": true
+  },
+  {
+    "id": 97,
+    "name": "Product 97",
+    "category": "Home",
+    "brand": "Alpha",
+    "price": 22473.54,
+    "stock": 400,
+    "rating": 1.0,
+    "isAvailable": true
+  },
+  {
+    "id": 98,
+    "name": "Product 98",
+    "category": "Electronics",
+    "brand": "Vertex",
+    "price": 31298.97,
+    "stock": 333,
+    "rating": 1.1,
+    "isAvailable": true
+  },
+  {
+    "id": 99,
+    "name": "Product 99",
+    "category": "Clothing",
+    "brand": "Alpha",
+    "price": 43716.75,
+    "stock": 350,
+    "rating": 1.2,
+    "isAvailable": false
+  },
+  {
+    "id": 100,
+    "name": "Product 100",
+    "category": "Books",
+    "brand": "Prime",
+    "price": 13016.03,
+    "stock": 187,
+    "rating": 4.2,
+    "isAvailable": false
+  }
+]
